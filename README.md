@@ -79,7 +79,7 @@
 
 ## 🎒 Образование
 [<img src="/certificate_junior.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/kimostas/kimostas/refs/heads/main/certificate_junior.png)
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/kimostas/kimostas/refs/heads/main/certificate_junior_rus.png)
+[<img src="/certificate_junior_rus.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/kimostas/kimostas/refs/heads/main/certificate_junior_rus.png)
 
 <br>
 <br>
